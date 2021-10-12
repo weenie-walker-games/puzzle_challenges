@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 47169815b1e76a746ab2c64e3a38c85f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4847701270203201694
+    second: PIXNIO-2677673-3883x5825_0
+  - first:
+      213: 911406101118894034
+    second: PIXNIO-2677673-3883x5825_1
+  - first:
+      213: -6947603450205534403
+    second: PIXNIO-2677673-3883x5825_2
+  - first:
+      213: 4233993735959708256
+    second: PIXNIO-2677673-3883x5825_3
+  - first:
+      213: 4884225502580998360
+    second: PIXNIO-2677673-3883x5825_4
+  - first:
+      213: 289000373678966897
+    second: PIXNIO-2677673-3883x5825_5
+  - first:
+      213: -3546595521872199376
+    second: PIXNIO-2677673-3883x5825_6
+  - first:
+      213: -5472027558194795939
+    second: PIXNIO-2677673-3883x5825_7
+  - first:
+      213: 8873671728530372300
+    second: PIXNIO-2677673-3883x5825_8
+  - first:
+      213: -6316697539690052038
+    second: PIXNIO-2677673-3883x5825_9
+  - first:
+      213: 3690581343101056570
+    second: PIXNIO-2677673-3883x5825_10
+  - first:
+      213: 331145424940805396
+    second: PIXNIO-2677673-3883x5825_11
+  - first:
+      213: -8785077246216553097
+    second: PIXNIO-2677673-3883x5825_12
+  - first:
+      213: 4510654485993121485
+    second: PIXNIO-2677673-3883x5825_13
+  - first:
+      213: -5861752603204092791
+    second: PIXNIO-2677673-3883x5825_14
+  - first:
+      213: -7401886644131285798
+    second: PIXNIO-2677673-3883x5825_15
+  - first:
+      213: 8071410076117410227
+    second: PIXNIO-2677673-3883x5825_16
+  - first:
+      213: -1433164445135330170
+    second: PIXNIO-2677673-3883x5825_17
+  - first:
+      213: -8579408546596063283
+    second: PIXNIO-2677673-3883x5825_18
+  - first:
+      213: 1567200207062789120
+    second: PIXNIO-2677673-3883x5825_19
+  - first:
+      213: -5831500268744056922
+    second: PIXNIO-2677673-3883x5825_20
+  - first:
+      213: 607009092437038446
+    second: PIXNIO-2677673-3883x5825_21
+  - first:
+      213: 3857139829455610365
+    second: PIXNIO-2677673-3883x5825_22
+  - first:
+      213: 290968781621039263
+    second: PIXNIO-2677673-3883x5825_23
+  - first:
+      213: 3966452278487268991
+    second: PIXNIO-2677673-3883x5825_24
+  - first:
+      213: 6881941220045702677
+    second: PIXNIO-2677673-3883x5825_25
+  - first:
+      213: -1994099515963073953
+    second: PIXNIO-2677673-3883x5825_26
+  - first:
+      213: 3007997468586620395
+    second: PIXNIO-2677673-3883x5825_27
+  - first:
+      213: 6117774753037341347
+    second: PIXNIO-2677673-3883x5825_28
+  - first:
+      213: -8992185553922586890
+    second: PIXNIO-2677673-3883x5825_29
+  - first:
+      213: -3920752175689416687
+    second: PIXNIO-2677673-3883x5825_30
+  - first:
+      213: 441157147383670331
+    second: PIXNIO-2677673-3883x5825_31
+  - first:
+      213: -8320284843853247637
+    second: PIXNIO-2677673-3883x5825_32
+  - first:
+      213: -6066882467893484627
+    second: PIXNIO-2677673-3883x5825_33
+  - first:
+      213: 5125929843814213919
+    second: PIXNIO-2677673-3883x5825_34
+  - first:
+      213: -1583143363303598776
+    second: PIXNIO-2677673-3883x5825_35
+  - first:
+      213: 191630139261174089
+    second: PIXNIO-2677673-3883x5825_36
+  - first:
+      213: -606501360646235979
+    second: PIXNIO-2677673-3883x5825_37
+  - first:
+      213: 572967499891192077
+    second: PIXNIO-2677673-3883x5825_38
+  - first:
+      213: -5294993531231004658
+    second: PIXNIO-2677673-3883x5825_39
+  - first:
+      213: -729722787125018446
+    second: PIXNIO-2677673-3883x5825_40
+  - first:
+      213: -8615511096809240300
+    second: PIXNIO-2677673-3883x5825_41
+  - first:
+      213: 3299497247096270587
+    second: PIXNIO-2677673-3883x5825_42
+  - first:
+      213: -3583757369885920363
+    second: PIXNIO-2677673-3883x5825_43
+  - first:
+      213: -8095764384380444055
+    second: PIXNIO-2677673-3883x5825_44
+  - first:
+      213: -818808312604786346
+    second: PIXNIO-2677673-3883x5825_45
+  - first:
+      213: 1273408555098108972
+    second: PIXNIO-2677673-3883x5825_46
+  - first:
+      213: 9137865146432839039
+    second: PIXNIO-2677673-3883x5825_47
+  - first:
+      213: 7856928799227966091
+    second: PIXNIO-2677673-3883x5825_48
+  - first:
+      213: 7223084133920852399
+    second: PIXNIO-2677673-3883x5825_49
+  - first:
+      213: 6150437154910250971
+    second: PIXNIO-2677673-3883x5825_50
+  - first:
+      213: 7903733466223052364
+    second: PIXNIO-2677673-3883x5825_51
+  - first:
+      213: -5723142874610943824
+    second: PIXNIO-2677673-3883x5825_52
+  - first:
+      213: 9103523869968276048
+    second: PIXNIO-2677673-3883x5825_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1940
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PIXNIO-2677673-3883x5825_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3882.6665
+        width: 1940
+        height: 1941.3334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2670454016189bcb0800000000000000
+      internalID: -4847701270203201694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXNIO-2677673-3883x5825_1
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 3882.6665
+        width: 1940
+        height: 1941.3334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfb0572507f5ac00800000000000000
+      internalID: 911406101118894034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXNIO-2677673-3883x5825_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1941.6666
+        width: 1940
+        height: 1941.3334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d378836d877259f90800000000000000
+      internalID: -6947603450205534403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXNIO-2677673-3883x5825_3
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1941.6666
+        width: 1940
+        height: 1941.3334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0628b15ceda22ca30800000000000000
+      internalID: 4233993735959708256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXNIO-2677673-3883x5825_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.666626
+        width: 1940
+        height: 1941.3334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d08e34873148c340800000000000000
+      internalID: 4884225502580998360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXNIO-2677673-3883x5825_5
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 0.666626
+        width: 1940
+        height: 1941.3334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17807150f4cb20400800000000000000
+      internalID: 289000373678966897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
