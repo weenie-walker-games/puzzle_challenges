@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Low Effort Jam 15 Work/Scenes/GameScene.unity
+    guid: 0f8f695105f7b79408fd8e695848b684
   m_configObjects: {}

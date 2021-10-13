@@ -8,6 +8,9 @@ namespace LowEffort
     {
         public static event System.Action<PlacementLocation, bool> OnLocationHover;
 
+
+        [SerializeField] private bool isPartOfPuzzle = false;
+        public bool IsPartOfPuzzle { get { return isPartOfPuzzle; } }
         private bool isMouseIn = false;
         private bool isPiecePlaced = false;
 
@@ -33,7 +36,7 @@ namespace LowEffort
 
             isMouseIn = true;
 
-            //OnLocationHover?.Invoke(this, true);
+            OnLocationHover?.Invoke(this, true);
         }
 
         private void OnMouseExit()
@@ -41,7 +44,7 @@ namespace LowEffort
 
             isMouseIn = false;
 
-            //OnLocationHover?.Invoke(this, false);
+            OnLocationHover?.Invoke(this, false);
         }
 
         private void GameReset()

@@ -18,6 +18,7 @@ namespace LowEffort
                 for (int j = 0; j < dimensions.y; j++)
                 {
                     GameObject obj = Instantiate(blockPrefab, new Vector3(i, j, 0) + blockParent.position, Quaternion.identity, blockParent);
+                    obj.name = "Position Block";
                 }
 
             }
