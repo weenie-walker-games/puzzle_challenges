@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Low Effort Jam 15 Work/Scenes/GameScene.unity
-    guid: 0f8f695105f7b79408fd8e695848b684
+    path: Assets/Slide-Click to Swap Puzzle/Scenes/SwapGameScene.unity
+    guid: 4b341367a8c8d744b88861df3f69fafe
   m_configObjects: {}

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8098777046989e040bcf08b32e46a6e5, type: 3}
+  m_Name: MinaColor
+  m_EditorClassIdentifier: 
+  imageDataItems:
+  - sprite: {fileID: -1779411398147399279, guid: 7e37692c64837934a8d3d8ae4da2e066,
+      type: 3}
+    imageCoordinates: {x: 0, y: 0}
+  - sprite: {fileID: 5435765076025889893, guid: 7e37692c64837934a8d3d8ae4da2e066,
+      type: 3}
+    imageCoordinates: {x: 0, y: 1}
+  - sprite: {fileID: 8967685183521991120, guid: 7e37692c64837934a8d3d8ae4da2e066,
+      type: 3}
+    imageCoordinates: {x: 0, y: 2}
+  - sprite: {fileID: -1396124746189751632, guid: 7e37692c64837934a8d3d8ae4da2e066,
+      type: 3}
+    imageCoordinates: {x: 0, y: 3}
+  - sprite: {fileID: 5028980712344845794, guid: 7e37692c64837934a8d3d8ae4da2e066,
+      type: 3}
+    imageCoordinates: {x: 1, y: 0}
+  - sprite: {fileID: -7718207361592691981, guid: 7e37692c64837934a8d3d8ae4da2e066,
+      type: 3}
+    imageCoordinates: {x: 1, y: 1}
+  - sprite: {fileID: 6044232227434401834, guid: 7e37692c64837934a8d3d8ae4da2e066,
+      type: 3}
+    imageCoordinates: {x: 1, y: 2}
+  - sprite: {fileID: 2068310934106885179, guid: 7e37692c64837934a8d3d8ae4da2e066,
+      type: 3}
+    imageCoordinates: {x: 1, y: 3}
+  - sprite: {fileID: 2645878413741283389, guid: 7e37692c64837934a8d3d8ae4da2e066,
+      type: 3}
+    imageCoordinates: {x: 2, y: 0}
+  - sprite: {fileID: 3361793756315975376, guid: 7e37692c64837934a8d3d8ae4da2e066,
+      type: 3}
+    imageCoordinates: {x: 2, y: 1}
+  - sprite: {fileID: -9022028444961243992, guid: 7e37692c64837934a8d3d8ae4da2e066,
+      type: 3}
+    imageCoordinates: {x: 2, y: 2}
+  - sprite: {fileID: 3538863484687445158, guid: 7e37692c64837934a8d3d8ae4da2e066,
+      type: 3}
+    imageCoordinates: {x: 2, y: 3}
+  - sprite: {fileID: 4174053492821368783, guid: 7e37692c64837934a8d3d8ae4da2e066,
+      type: 3}
+    imageCoordinates: {x: 3, y: 0}
+  - sprite: {fileID: -2374251545912384605, guid: 7e37692c64837934a8d3d8ae4da2e066,
+      type: 3}
+    imageCoordinates: {x: 3, y: 1}
+  - sprite: {fileID: -4454497031322728517, guid: 7e37692c64837934a8d3d8ae4da2e066,
+      type: 3}
+    imageCoordinates: {x: 3, y: 2}
+  - sprite: {fileID: -3664365418940944121, guid: 7e37692c64837934a8d3d8ae4da2e066,
+      type: 3}
+    imageCoordinates: {x: 3, y: 3}
