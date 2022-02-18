@@ -16,24 +16,4 @@ namespace WeenieWalker
         W,
         NW
     }
-
-    [System.Serializable]
-    public struct CorrectLines
-    {
-        public List<CircleObject> objectsInLine;
-    }
-
-    [System.Serializable]
-    public struct ConnectedObjects
-    {
-        public DirectionObject fromObject;
-        public DirectionObject toObject;
-    }
-
-    [System.Serializable]
-    public struct DirectionObject
-    {
-        public CircleObject circleObject;
-        public DirectionEnum directionEnum;
-    }
 }
