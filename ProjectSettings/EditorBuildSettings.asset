@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Slide-Click to Swap Puzzle/Scenes/SwapGameScene.unity
-    guid: 4b341367a8c8d744b88861df3f69fafe
+    path: Assets/Number Puzzle/Scenes/NumberPuzzleScene3x3.unity
+    guid: 2102d12f89b53594ab88be48167b9c7b
+  - enabled: 1
+    path: Assets/Number Puzzle/Scenes/NumberPuzzleScene4x4.unity
+    guid: 2850ec18b0949bf48984ca4394c56b92
   m_configObjects: {}

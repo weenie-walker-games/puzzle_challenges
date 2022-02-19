@@ -2,12 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace WeenieWalker
+namespace NumberPuzzle
 {
     public class CreateLineRenderer : MonoBehaviour
     {
         [SerializeField] private List<CorrectLines> correctLines = new List<CorrectLines>();
-        [SerializeField] private List<ConnectedObjects> connectedObjects = new List<ConnectedObjects>();
         [SerializeField] GameObject lineObjectPrefab;
         [SerializeField] Transform lineParentHolder;
 
@@ -143,17 +142,4 @@ namespace WeenieWalker
         public List<CircleObject> objectsInLine;
     }
 
-    [System.Serializable]
-    public struct ConnectedObjects
-    {
-        public DirectionObject fromObject;
-        public DirectionObject toObject;
-    }
-
-    [System.Serializable]
-    public struct DirectionObject
-    {
-        public CircleObject circleObject;
-        public DirectionEnum directionEnum;
-    }
 }

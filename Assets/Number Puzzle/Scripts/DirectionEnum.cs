@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace WeenieWalker
+namespace NumberPuzzle
 {
     [System.Serializable]
     public enum DirectionEnum
