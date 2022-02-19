@@ -84,7 +84,6 @@ namespace NumberPuzzle
             {
                 //increase currentValue and then find it mod the total number of lines + 1 (to account for the "" option)
                 currentValue = (currentValue + 1) % (lineCount + 1);
-                Debug.Log("Line count " + lineCount);
             }
 
             if(eventData.button == PointerEventData.InputButton.Right)
